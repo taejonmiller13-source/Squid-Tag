@@ -1,0 +1,4 @@
+repository "Squid Tag/Squid Tag@2475915051927@cloud"
+  path "/"
+    br "/main"
+    co "/main"
